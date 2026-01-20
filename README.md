@@ -10,8 +10,6 @@ Este repositório contém o modelo ER estendido (EER) de um sistema de e-commerc
 
 ## 📂 Estrutura
 - docs/der → diagramas ER/EER
-- docs/modelo-logico → scripts SQL
-- diagrams → arquivos editáveis (Workbench)
 
 ## 🛠 Ferramentas
 - MySQL Workbench
